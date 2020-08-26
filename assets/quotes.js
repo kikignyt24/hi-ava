@@ -1,7 +1,7 @@
 // prettier-ignore
 export default [
     { author: "avrill.v", quotes: "Neng" },
-    { author: "antjedtta_", quotes: "Hehehe" },
+    { author: "antjedtta_", quotes: "Hehehehe" },
     { author: "standinshd", quotes: "Hey! Neng Cancik! UwU" },
     { author: "standinshd", quotes: "I love you." },
     { author: "standinshd", quotes: "Jangan pigi dari aa yaa." },
